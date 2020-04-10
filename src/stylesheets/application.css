@@ -1,7 +1,14 @@
 @import url('~normalize.css/normalize.css');
 
-* {
-  box-sizing: border-box;
-}
 
 /* TODO */
+
+.jumbotron {
+  background-image: url('https://c0.wallpaperflare.com/preview/604/241/208/boys-book-story-read-the-book.jpg');
+  background-position: 0 -150px;
+}
+
+footer{
+  background: black;
+  color: white;
+}
